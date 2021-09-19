@@ -52,4 +52,5 @@ for (let i = 0; i < chrs.length; i++) {
     chrsEle.appendChild(imgEle);
 
     box.appendChild(chrsEle);
+
 }
